@@ -1,0 +1,20 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "A web based applicatio with OTP based(passwordless) authentication and one-to-one and group chats available. Created with MongoDB, ExpressJS, ReactJS and NodeJS(MERN Stack).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kr1sh-Patel/Chat-room.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kr1sh-Patel/Chat-room/issues"
+  },
+  "homepage": "https://github.com/Kr1sh-Patel/Chat-room#readme"
+}
