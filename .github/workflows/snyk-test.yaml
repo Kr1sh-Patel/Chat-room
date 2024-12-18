@@ -28,3 +28,6 @@ jobs:
       
             - name: Run Snyk Test
               run: snyk test 
+        
+            - name: Monitor Snyk Results
+              run: snyk monitor
